@@ -1,7 +1,7 @@
 ¡Hola! Soy Catalina León 👋
 Tech Sourcer de Buk | Gestión de Personas 🚀
 
-Mi misión en GitHub va más allá de filtrar perfiles; estoy aquí para conectar con ingenieros que ven el código como una herramienta para mejorar la vida laboral de millones de personas. Me interesa entender tus contribuciones, la arquitectura de tus proyectos personales y cómo aplicas las buenas prácticas en el día a día.
+Mi misión en GitHub es conectar con ingenieros que ven el código como una herramienta para mejorar la vida laboral de millones de personas. Me interesa entender tus contribuciones, la arquitectura de tus proyectos personales y cómo aplicas las buenas prácticas en el día a día. De esta manera me adentro en el mundo tecnológico para encontrar al mejor talento.
 
 ¿Qué construimos en Buk? 🛠️
 
